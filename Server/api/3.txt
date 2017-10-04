@@ -1,0 +1,26 @@
+http://svn.apache.org/repos/asf/subversion
+
+															  name="Upload">
+				echo result;
+				<input type="hidden" name="result" value="result">
+
+
+
+//	public function saveMemory($num)
+//	{
+//		if ($num)
+//		{
+//			setcookie('MEMORY', $num);
+//			//file_put_contents('TMP', $num);
+//		}
+//	}
+//
+//	public function loadFromMemory()
+//	{
+//		return $_COOKIE['MEMORY'];
+//		//return file_get_contents('TMP');
+//	}
+
+
+
+https://docs.google.com/document/d/1140QqR9BbyXrFLa-en8b9RC85z2QV61JTmaVpL_l0d4/edit
